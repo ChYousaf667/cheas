@@ -1,0 +1,83 @@
+body{
+    background-color: ;
+}
+.my-img{
+    top: 7%;
+    left: 0%;
+    
+    
+    transition: all 1s;
+}
+
+.view{
+    color: #F15B41;
+    font-weight: bold;
+}
+
+
+.cards{
+    
+    margin-top: 30%;
+}
+
+
+.explor{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.re{
+    
+    border: 1px solid #FDBA11;
+    border-radius: 4%;
+    margin: 1rem;
+    
+    gap: 2rem;
+}
+
+
+.para{
+    font-size: smaller;
+    
+}
+
+.card-body{
+    background-color: rgba(0, 0, 0, 0.619);
+    bottom: 0%;
+}
+
+.qwe{
+    z-index: -1;
+}
+
+.input{
+    width: 100%;
+    height: 60px;
+    
+}
+
+
+
+@media (max-width:770px) {
+    .qwe{
+        display: none;
+    }
+
+    .asd{
+        
+        margin-top: 130%;
+    }
+
+    .zxc{
+        margin-left: 0%;
+    }
+}
+
+
+
+
+
+
+
+
